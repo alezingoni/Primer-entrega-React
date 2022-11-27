@@ -4,7 +4,7 @@ import CartWidget from './CartWidget.js';
 
 
 
- function NavBar() {
+function NavBar() {
     return (
       <header className="App-header">
         <div className='Logo'>

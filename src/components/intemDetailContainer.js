@@ -15,7 +15,7 @@ export const itemDetailContainer = () =>{
     
     
     return(
-          <h1>deatlle</h1>
+        <h1>deatlle</h1>
     );
 }
 

@@ -7,8 +7,8 @@ import ItemDetailContainer from './components/intemDetailContainer';
 function App() {
   return (
     <> 
-   <NavBar/>
-   <ItemDetailContainer/>
+  <NavBar/>
+  <ItemDetailContainer/>
     </>
   );
 }

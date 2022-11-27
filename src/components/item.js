@@ -8,7 +8,7 @@ const item = ({info}) => {
         </a>
     )
 };
- export default item;
+export default item;
 
 
 
